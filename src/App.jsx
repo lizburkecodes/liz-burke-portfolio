@@ -110,7 +110,7 @@ function App() {
             </a>
 
             <a
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/liz-burke-chi/"
               target="_blank"
               rel="noreferrer"
               className="project-button secondary"
