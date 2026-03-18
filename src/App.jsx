@@ -3,12 +3,15 @@ import './App.css'
 function App() {
   return (
     <div className="page">
-      <main className="card">
+      <aside className="side-panel left-panel">
+        <img src="/headshot.jpg" alt="Liz Burke" className="headshot" />
         <h1>Liz Burke</h1>
         <p className="intro">
           Full-stack software engineer with 4+ years of experience building payment systems and merchant-facing tools. I specialize in React, Node.js, and solving complex product and integration challenges.
         </p>
+      </aside>
 
+      <main className="card">
         <section>
           <h2>About</h2>
           <p>
@@ -91,8 +94,10 @@ function App() {
             </div>
           </div>
         </section>
+      </main>
 
-        <section>
+      <aside className="side-panel right-panel">
+        <section className="contact-panel">
           <h2>Contact</h2>
 
           <p>
@@ -114,7 +119,7 @@ function App() {
             </a>
           </div>
         </section>
-      </main>
+      </aside>
     </div>
   )
 }
