@@ -71,7 +71,7 @@ function App() {
               geolocation-based search, and paginated browsing.
             </p>
             <p className="tech">
-              Frontend: React • Backend: Node.js, Express • Database: MongoDB • AWS
+              Frontend: React • Backend: Node.js, Express • Database: MongoDB
             </p>
             <div className="project-links">
               <a
