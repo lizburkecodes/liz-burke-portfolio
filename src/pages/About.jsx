@@ -2,7 +2,6 @@ function About() {
   return (
    <div className="content-page">
     <img src="/headshot.jpg" alt="Liz Burke" className="headshot" />
-    <h1>Liz Burke</h1>
         <p className="tagline">
         Full-stack software engineer focused on payments and real-world product development.
         </p>
