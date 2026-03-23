@@ -12,7 +12,7 @@ function App() {
       <header className="top-bar">
         <div className="brand">
           <h1>Liz Burke</h1>
-          <p className="tagline">FULL-STACK SOFTWARE ENGINEER</p>
+          <p className="tagline">TECHNICAL SOLUTIONS ENGINEER | APIs, INTEGRATIONS, & PRODUCTION SYSTEMS</p>
         </div>
 
         <nav className="site-nav">
