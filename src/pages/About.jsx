@@ -3,14 +3,18 @@ function About() {
    <div className="content-page">
     <img src="/headshot.jpg" alt="Liz Burke" className="headshot" />
         <p className="tagline">
-        Full-stack software engineer focused on payments and real-world product development.
+        Technical Solutions Engineer with a background in full-stack development and payments systems.
         </p>
       <h2>About</h2>
 
+      <p>Hi, I'm Liz.</p>
       <p>
-        I build secure, scalable software across frontend and backend systems, with a focus on usability,
-        reliability, and practical business needs. My background includes merchant-facing tools, payment
-        platforms, internal tooling, testing, debugging, and cross-functional collaboration.
+       I specialize in helping teams and customers navigate 
+        complex systems — from integrating APIs to debugging production issues. 
+        With a background in full-stack development in the payments space, 
+        I've worked closely with support teams and stakeholders to resolve 
+        issues, streamline workflows, and deliver reliable solutions 
+        in real-world environments.
       </p>
 
       <p>

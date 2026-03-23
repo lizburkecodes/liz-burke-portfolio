@@ -152,6 +152,10 @@ a:hover {
   color: #f8fafc;
 }
 
+.content-page h2.personal-projects-heading {
+  margin: 3rem 0 12px;
+}
+
 .content h3,
 .content-page h3 {
   margin: 24px 0 12px;
