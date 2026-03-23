@@ -53,7 +53,7 @@ function Projects() {
 
 
       <div className="project-item">
-        <h4>BlockChyp Gateway Integration</h4>
+        <h3>BlockChyp Gateway Integration</h3>
 
         <p>
           <strong>
