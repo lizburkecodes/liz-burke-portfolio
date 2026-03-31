@@ -2,9 +2,8 @@ function About() {
   return (
    <div className="content-page">
     <img src="/headshot.jpg" alt="Liz Burke" className="headshot" />
-      <h2>About</h2>
 
-      <p>Hi, I'm Liz.</p>
+      <p>Hi, </p> <p> I'm Liz.</p>
       <p>
        I specialize in helping teams and customers navigate 
         complex systems — from integrating APIs to debugging production issues. 
