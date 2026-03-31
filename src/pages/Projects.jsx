@@ -66,7 +66,7 @@ function Projects() {
         <h4>Problem</h4>
         <p>
           After acquiring BlockChyp, we needed to integrate the new gateway into our
-          existing payment products without disrupting current customers. 
+          existing payment products without disrupting current customers.
           Our platform was tightly coupled to a legacy third-party
           gateway that was unreliable under load and expensive to maintain. Replacing it
           required maintaining backward compatibility with existing request/response formats
@@ -257,6 +257,40 @@ function Projects() {
             Backend Code
           </a>
         </p>
+      </div>
+      <div className="project-item">
+        <div className="project-item">
+          <h3>Learn API Fundamentals</h3>
+
+          <p>
+            Interactive React application for getting familiar with APIs through hands-on exercises.
+            Users practice reading API documentation, understanding request/response structures,
+            and identifying common error scenarios.
+          </p>
+
+          <p>
+            Built with React, TypeScript, and Vite. Includes simulated API scenarios to reinforce
+            real-world debugging and integration skills.
+          </p>
+
+          <p className="project-links">
+            <a
+              href="https://learn-api-basics.netlify.app"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Live Demo
+            </a>{' '}
+            /{' '}
+            <a
+              href="https://github.com/lizburkecodes/api-learning-app-v2"
+              target="_blank"
+              rel="noreferrer"
+            >
+              View Code
+            </a>
+          </p>
+        </div>
       </div>
     </div>
   )
