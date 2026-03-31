@@ -227,7 +227,51 @@ function Projects() {
 
       <h2 className="personal-projects-heading">Personal Projects</h2>
       <div className="project-item">
+        <h3>Learn API Basics</h3>
+
+        <img
+          src="/images/app_preview1.png"
+          alt="Preview of the Learn API Basics app"
+          className="project-preview"
+        />
+
+        <p>
+          Interactive React application for learning API fundamentals through hands-on exercises.
+          Users practice reading API documentation, understanding request/response structures,
+          and identifying common error scenarios.
+        </p>
+
+        <p>
+          Built with React, TypeScript, and Vite. Includes simulated API scenarios to reinforce
+          real-world debugging and integration skills.
+        </p>
+
+        <p className="project-links">
+          <a
+            href="https://learn-api-basics.netlify.app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Live Demo
+          </a>{' '}
+          /{' '}
+          <a
+            href="https://github.com/lizburkecodes/api-learning-app-v2"
+            target="_blank"
+            rel="noreferrer"
+          >
+            View Code
+          </a>
+        </p>
+      </div>
+      <div className="project-item">
         <h3>Little Free Finder</h3>
+
+        <img
+          src="/images/finder_preview.png"
+          alt="Preview of the Little Free Finder app"
+          className="project-preview"
+        />
 
         <p>
           Full-stack web application for discovering and managing community free libraries.
@@ -257,40 +301,6 @@ function Projects() {
             Backend Code
           </a>
         </p>
-      </div>
-      <div className="project-item">
-        <div className="project-item">
-          <h3>Learn API Fundamentals</h3>
-
-          <p>
-            Interactive React application for getting familiar with APIs through hands-on exercises.
-            Users practice reading API documentation, understanding request/response structures,
-            and identifying common error scenarios.
-          </p>
-
-          <p>
-            Built with React, TypeScript, and Vite. Includes simulated API scenarios to reinforce
-            real-world debugging and integration skills.
-          </p>
-
-          <p className="project-links">
-            <a
-              href="https://learn-api-basics.netlify.app"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Live Demo
-            </a>{' '}
-            /{' '}
-            <a
-              href="https://github.com/lizburkecodes/api-learning-app-v2"
-              target="_blank"
-              rel="noreferrer"
-            >
-              View Code
-            </a>
-          </p>
-        </div>
       </div>
     </div>
   )
