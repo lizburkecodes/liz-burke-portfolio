@@ -1,21 +1,23 @@
 function About() {
   return (
-   <div className="content-page">
-    <img src="/headshot.jpg" alt="Liz Burke" className="headshot" />
+    <div className="content-page">
+      <img src="/headshot.jpg" alt="Liz Burke" className="headshot" />
 
       <p>Hi, </p> <p> I'm Liz.</p>
       <p>
-       I specialize in helping teams and customers navigate 
-        complex systems — from integrating APIs to debugging production issues. 
-        With a background in full-stack development in the payments space, 
-        I've worked closely with support teams and stakeholders to resolve 
-        issues, streamline workflows, and deliver reliable solutions 
-        in real-world environments.
+        I work on APIs, integrations, and debugging issues in production systems. 
+        Most of my experience is in payments, where I've investigated production issues, 
+        supported integrations, and handled edge cases that show up in real customer environments.
+        I've spent a lot of time working closely with support teams and stakeholders 
+        to troubleshoot problems, improve workflows, and make systems more reliable. 
+        I enjoy digging into issues, figuring out what's actually happening, 
+        and helping people get unstuck.
       </p>
 
       <p>
-        My experience spans React, Vue, Node.js, TypeScript, and AWS, with a strong focus on building
-        software that supports real users and real business workflows.
+
+        My background is in full-stack development, where I have primarily worked with Node.js, React, TypeScript, and AWS. 
+        I'm comfortable moving across systems to understand how things behave end-to-end and where they break down.
       </p>
     </div>
   )
