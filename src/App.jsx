@@ -1,4 +1,4 @@
-import { Routes, Route, Link } from 'react-router-dom'
+import { Routes, Route, Link, NavLink } from 'react-router-dom'
 import './App.css'
 
 import About from './pages/About'
@@ -19,10 +19,10 @@ function App() {
         </div>
 
         <nav className="site-nav">
-          <Link to="/about">About</Link>
-          <Link to="/experience">Experience</Link>
-          <Link to="/projects">Projects</Link>
-          <Link to="/contact">Contact</Link>
+          <NavLink to="/about">About</NavLink>
+          <NavLink to="/experience">Experience</NavLink>
+          <NavLink to="/projects">Projects</NavLink>
+          <NavLink to="/contact">Contact</NavLink>
           <a
             href="https://liz-burke-chi.medium.com/"
             target="_blank"
