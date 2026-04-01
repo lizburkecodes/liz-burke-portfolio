@@ -13,8 +13,8 @@ function App() {
         <div className="brand">
           <h1>Liz Burke</h1>
           <div className="tagline">
-            <p className="tagline-title">TECHNICAL SOLUTIONS ENGINEER</p>
-            <p className="tagline-subtitle">APIs, INTEGRATIONS, &amp; PRODUCTION SYSTEMS</p>
+            <p className="tagline-title">TECHNICAL SOLUTIONS & SUPPORT ENGINEER</p>
+            <p className="tagline-subtitle">APIs, INTEGRATIONS, &amp; DEBUGGING & PRODUCTION SYSTEMS</p>
           </div>
         </div>
 
