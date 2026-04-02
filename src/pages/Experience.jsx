@@ -24,32 +24,36 @@ function Experience() {
 
       <ul>
         <li>
-          Built merchant-facing features used to configure payment behavior and account settings
-          for enterprise clients
+          Investigated and resolved production issues impacting payment processing and merchant workflows, 
+          working closely with internal support teams and stakeholders
         </li>
         <li>
-          Partnered with internal support teams to investigate issues and resolve
-          merchant-impacting problems
+          Debugged API integrations by tracing request/response flows across services and validating data 
+          in distributed systems
         </li>
         <li>
-          Developed backend services in Node.js and AWS Lambda to support payment processing
-          and pricing logic across merchant systems
+          Handled on-call production support using Datadog, Sentry, and OpsGenie, triaging incidents and 
+          identifying root causes across payment systems
         </li>
         <li>
-          Managed settlement and configuration data using DynamoDB and Amazon S3 to support
-          processing and reporting workflows
+          Built backend services in Node.js and AWS Lambda to support payment processing and pricing logic 
+          across merchant systems
         </li>
         <li>
-          Created and maintained automated test coverage with Jest and Cypress to ensure
-          feature reliability and reduce regressions
+          Managed settlement and configuration data using DynamoDB and Amazon S3 to support processing and 
+          reporting workflows
         </li>
         <li>
-          Handled production and on-call support using Datadog, Sentry, and OpsGenie,
-          investigating and resolving incidents across payment systems
+          Created and maintained automated test coverage with Jest and Cypress to improve system reliability 
+          and reduce regressions
         </li>
         <li>
-          Owned biweekly production deployments for CardX by Stax, communicating releases
-          and monitoring system stability post-deployment
+          Owned biweekly production deployments for CardX by Stax, communicating releases and monitoring system 
+          stability post-deployment
+        </li>
+        <li>
+          Built internal tools and workflows to support troubleshooting and reduce time to resolution for 
+          support teams
         </li>
       </ul>
     </div>
