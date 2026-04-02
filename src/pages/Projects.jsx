@@ -8,8 +8,10 @@ function Projects() {
 
         <p>
           <strong>
-            Automated data pipeline to continuously enrich BIN classification data,
-            improving pricing accuracy and reducing compliance risk in a payment platform.
+            Automated data pipeline to continuously enrich BIN classification data, improving 
+            pricing accuracy and reducing compliance risk in a payment platform. This project 
+            focused on building a scalable way to ingest and maintain accurate data as card 
+            networks expanded beyond traditional ranges.
           </strong>
         </p>
 
@@ -51,7 +53,6 @@ function Projects() {
         </ul>
       </div>
 
-
       <div className="project-item">
         <h3>BlockChyp Gateway Integration</h3>
 
@@ -65,7 +66,7 @@ function Projects() {
 
         <h4>Problem</h4>
         <p>
-          After acquiring BlockChyp, we needed to integrate the new gateway into our
+    After acquiring BlockChyp, we needed to integrate the new gateway into our
           existing payment products without disrupting current customers.
           Our platform was tightly coupled to a legacy third-party
           gateway that was unreliable under load and expensive to maintain. Replacing it
